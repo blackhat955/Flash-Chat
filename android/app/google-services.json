@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "670914494897",
+    "project_id": "flash-chat-5ad3e",
+    "storage_bucket": "flash-chat-5ad3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670914494897:android:26867741b7c63ed0d83d90",
+        "android_client_info": {
+          "package_name": "co.Durgesh.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670914494897-c8ibsm87u14me5tbu1g7thv353cek0h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDTXmhTInIrxHyEgrL9VcSMz2BoO3XLOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670914494897-c8ibsm87u14me5tbu1g7thv353cek0h1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
